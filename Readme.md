@@ -1,12 +1,12 @@
-# 📰 News feed
+# 📰 News feed
 
-## Install
+## Install
 
 ```bash
 $ npm i
 ```
 
-## Run project
+## Run project
 
 ```bash
 $ npm run serve
